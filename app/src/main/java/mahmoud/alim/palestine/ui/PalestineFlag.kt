@@ -16,7 +16,9 @@ import androidx.compose.ui.graphics.Path
 import androidx.compose.ui.graphics.drawscope.Fill
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.sp
+import mahmoud.alim.palestine.ui.theme.Green
 import mahmoud.alim.palestine.ui.theme.PalestineTheme
+import mahmoud.alim.palestine.ui.theme.Red
 
 /**
  * @author Mahmoud Alim on 17/10/2023.
